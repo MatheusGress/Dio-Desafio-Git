@@ -1,2 +1,2 @@
-# Dio-Desafio-Git
-Um desfio da DIO sobre Git e GitHub
+# Desafio Git da DIO
+
